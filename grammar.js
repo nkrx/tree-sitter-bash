@@ -309,6 +309,7 @@ module.exports = grammar({
       repeat(choice(
         $.variable_assignment,
         $.file_redirect,
+        $.herestring_redirect,
       )),
       field('name', $.command_name),
       repeat(field('argument', choice(

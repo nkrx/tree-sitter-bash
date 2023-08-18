@@ -551,6 +551,10 @@
           "named": true
         },
         {
+          "type": "herestring_redirect",
+          "named": true
+        },
+        {
           "type": "variable_assignment",
           "named": true
         }

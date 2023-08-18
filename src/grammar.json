@@ -1254,6 +1254,10 @@
                 {
                   "type": "SYMBOL",
                   "name": "file_redirect"
+                },
+                {
+                  "type": "SYMBOL",
+                  "name": "herestring_redirect"
                 }
               ]
             }
